@@ -3,3 +3,18 @@ This repository introduces a structured, question-based navigation (QBN) model f
 
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+## Outline & Introduction
+
+## Project Guide 1A (example project guide)
+
+## Question Based Navigation: QBN
+
+## Baseball Team Model
+
+## Communication & Understanding
+
+## Solutions In-Industry (where others did not deliver)
+
+## "Doing It Right.. Measure Twice, Cut Once."
+
