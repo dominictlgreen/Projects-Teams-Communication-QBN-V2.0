@@ -1,6 +1,6 @@
 
 
-### **Experienced Problem Solving - 20+ Years Real-World Experience**
+### **Experienced Problem Solving - 15+ Years Real-World Experience**
 
 #### **Bridging the Gap Between Engineering, Software, and AI**  
 With a background spanning multiple industries, from large-scale engineering to AI-driven solutions, I bring a unique perspective that enables me to solve complex problems others often miss. My ability to preempt challenges and design scalable systems has consistently set me apart, ensuring efficiency and long-term success for every project I undertake.
