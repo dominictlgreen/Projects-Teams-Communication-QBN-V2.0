@@ -13,9 +13,10 @@ With a deep technical foundation and a user-first mindset, I design and develop 
 - Using **local and app-wide data** efficiently to optimize performance and **reduce unnecessary re-renders**.  
 - Designing reusable **template-based UI architectures** for maintainable and extensible applications.
 
-#### **3. Cross-Platform App Development**  
+#### **3. AI-Connected & Cross-Platform App Development**  
 - Experience exporting applications using **Meteor.js and Electron.js** to **iOS, Android, PC, Mac, and Linux**.  
-- Developing **offline-first apps with SQLite**, ensuring smooth **local-to-cloud sync** mechanisms.  
+- Developing **AI-connected apps** that integrate with modern AI models, enabling seamless **user interactions with intelligent assistants**.  
+- Building **offline-first apps with SQLite**, ensuring smooth **local-to-cloud sync** mechanisms.  
 - Handling **data storage, manipulation, and synchronization** across **local and cloud-based systems**.
 
 #### **4. Command-Line & Cloud Deployment Expertise**  
@@ -46,5 +47,4 @@ With a deep technical foundation and a user-first mindset, I design and develop 
 ---
 
 ### **Why Hire Me?**  
-I bring a unique combination of **technical expertise, UI/UX intuition, and scalable systems thinking** to digital product development. Whether it's **building cross-platform applications, refining user interfaces, optimizing data flows, or managing cloud deployments**, I ensure that every project is functional, intuitive, and high-performance. With experience in **eCommerce, SaaS, and enterprise solutions**, I can efficiently execute or lead projects, making sure that design, technology, and user experience align perfectly.
-
+I bring a unique combination of **technical expertise, UI/UX intuition, and scalable systems thinking** to digital product development. Whether it's **building cross-platform applications, refining user interfaces, optimizing data flows, developing AI-connected apps, or managing cloud deployments**, I ensure that every project is functional, intuitive, and high-performance. With experience in **eCommerce, SaaS, and enterprise solutions**, I can efficiently execute or lead projects, making sure that design, technology, and user experience align perfectly.
