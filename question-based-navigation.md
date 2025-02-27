@@ -1,5 +1,5 @@
 
-# Question-Based Navigation
+# QBN | Question-Based Navigation
 
 ## The Art of Asking: Navigating with Precision and Clarity
 
